@@ -19,7 +19,6 @@ Product documentation hub — setup guides, how-tos, API reference. Publishable 
 - CPL-specific documentation (use cellular-private-lan)
 - Numbrrs-specific documentation (use numbrrs)
 - API specification (use simsy-api)
-- Any Net4Connect / Net4 information or data
 
 ## Related repos
 
@@ -32,7 +31,7 @@ Product documentation hub — setup guides, how-tos, API reference. Publishable 
 
 ## Important
 
-**This is a SIMSY-only environment.** Do not add any Net4Connect / Net4 information or data to this repository unless specifically instructed by Alex.
+**This is a SIMSY-only environment.**
 
 ## Contributing
 
